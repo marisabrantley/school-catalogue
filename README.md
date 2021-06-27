@@ -1,6 +1,6 @@
 # School Catalogue Project
 
-In this Codecademy Javascript project, we created a digital school catalog for the fictious New York City Department of Education. This catalog will contain quick reference material for each school in the city.
+In this Codecademy Javascript project, we created a digital school catalog for the fictitious New York City Department of Education. This catalog will contain quick reference material for each school in the city.
 
 The program contained one parent and three child classes (primary, middle, and high schools), with properties, getters, setters, and methods.
 
